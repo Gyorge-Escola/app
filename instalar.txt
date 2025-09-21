@@ -1,0 +1,6 @@
+1) Abra o link abaixo no navegador:
+  https://drive.google.com/file/d/1pM0tsireg06laVF2f_MDmpNRxaaiGLbS/view
+2) Extraia os arquivos do .tar.gz
+3) De 2 cliques no Abrir.sh que veio no arquivo extraido
+4) Digite sua senha o nome do App
+5) Divirta-se
